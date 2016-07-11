@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://114.112.86.77:3881/Infiniti/ios/InfinitiCRM.ipa</string>
+                    <string>http://115.159.89.190:8002/rdi/api/downloadFile/client/RDIMeetingProj.ipa</string>
                 </dict>
                 <dict>
 					<key>kind</key>
@@ -49,13 +49,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.infiniti.crm</string>
+                <string>com.visionet.inhouse.MicroMeetingProj</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>1.2</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>InfinitiCRM</string>
+                <string>MicroMeetingProj</string>
             </dict>
 			</dict>
 		</array>
